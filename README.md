@@ -12,6 +12,10 @@
 
 :evergreen_tree: 春松客服是 [Chatopera](https://www.chatopera.com/) 发布的开源并且免费的智能客服系统 / CSKeFu is a Customer Support System for Enterprises in a High Performance Low-Touch way, OpenSource and Free for the world by [Chatopera](https://www.chatopera.com/).
 
+![](./assets/images/screenshot-20211128-201757.jpg)
+
+[给春松客服点赞](https://github.com/chatopera/cskefu/stargazers)
+
 ## 鸣谢
 
 [IBM Cloud 赞助春松客服服务器资源 12W US Dollar（2019 年度）](https://cloud.ibm.com/)

@@ -8,6 +8,10 @@
 
 ## 春松客服大讲堂 2019
 
+该课程有发布到两个地址：Bilibili 和 [腾讯课堂](https://ke.qq.com/course/464050)。Bilibili 视频免费观看，腾讯课堂为付费，有条件的观众请在腾讯课堂购买，以视对我们工作的支持和鼓励 :heartpulse:，做好开源客服系统。
+
+以下列表中使用 Bilibili 站点地址。
+
 <table>
   <tr>
     <th>章</th>
@@ -157,12 +161,12 @@
   </tr>
   <tr>
     <td rowspan="2">六、春松客服的插件</td>
-    <td><a href="">插件机制设计</a></td>
+    <td><a href="https://www.bilibili.com/video/BV1Mr4y1Q7hc?p=1">插件机制设计</a></td>
     <td>00:45:51</td>
     <td><a href="https://github.com/chatopera/cskefu.djt/raw/main/%E6%98%A5%E6%9D%BE%E5%AE%A2%E6%9C%8D%E5%A4%A7%E8%AE%B2%E5%A0%82_2019/7-2.plugin-mechanism-chatbot.pptx">PPT</a></td>
   </tr>
   <tr>
-    <td><a href="">春松客服机器人插件解读</a></td>
+    <td><a href="https://www.bilibili.com/video/BV1Mr4y1Q7hc?p=2">春松客服机器人插件解读</a></td>
     <td>00:41:20</td>
     <td><a href="https://github.com/chatopera/cskefu.djt/raw/main/%E6%98%A5%E6%9D%BE%E5%AE%A2%E6%9C%8D%E5%A4%A7%E8%AE%B2%E5%A0%82_2019/7-2.plugin-mechanism-chatbot.pptx">PPT</a></td>
   </tr>

@@ -12,11 +12,11 @@
   </tr>
   <tr>
     <td rowspan="3">一、春松客服的介绍</td>
-    <td><a href="https://ke.qq.com/webcourse/index.html#cid=464050&term_id=100555327&taid=4785478331471026&type=1024&vid=5285890796113543115">【免费】如何使用Java开发智能客服系统</a></td>
+    <td><a href="https://ke.qq.com/webcourse/index.html#cid=464050&term_id=100555327&taid=4785478331471026&type=1024&vid=5285890796113543115">如何使用Java开发智能客服系统</a></td>
     <td>00:32:11</td>
   </tr>
   <tr>
-    <td><a href="https://ke.qq.com/webcourse/index.html#cid=464050&term_id=100555327&taid=4785482626438322&type=1024&vid=5285890796174208504">【免费】春松客服在企业的落地</a></td>
+    <td><a href="https://ke.qq.com/webcourse/index.html#cid=464050&term_id=100555327&taid=4785482626438322&type=1024&vid=5285890796174208504">春松客服在企业的落地</a></td>
     <td>00:30:41</td>
   </tr>
   <tr>

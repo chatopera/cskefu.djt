@@ -12,129 +12,129 @@
   </tr>
   <tr>
     <td rowspan="3">一、春松客服的介绍</td>
-    <td><a href="https://ke.qq.com/webcourse/index.html#cid=464050&term_id=100555327&taid=4785478331471026&type=1024&vid=5285890796113543115">如何使用Java开发智能客服系统</a></td>
+    <td><a href="https://www.bilibili.com/video/BV13P4y1V7Jk?p=1">如何使用Java开发智能客服系统</a></td>
     <td>00:32:11</td>
   </tr>
   <tr>
-    <td><a href="https://ke.qq.com/webcourse/index.html#cid=464050&term_id=100555327&taid=4785482626438322&type=1024&vid=5285890796174208504">春松客服在企业的落地</a></td>
+    <td><a href="https://www.bilibili.com/video/BV13P4y1V7Jk?p=2">春松客服在企业的落地</a></td>
     <td>00:30:41</td>
   </tr>
   <tr>
-    <td><a href="https://ke.qq.com/webcourse/index.html#cid=464050&term_id=100555327&taid=4785486921405618&type=1024&vid=5285890796206187829">春松客服的技术介绍</a></td>
+    <td><a href="https://www.bilibili.com/video/BV13P4y1V7Jk?p=3">春松客服的技术介绍</a></td>
     <td>01:09:30</td>
   </tr>
   <tr>
     <td rowspan="7">二、客服相关的基本知识</td>
-    <td><a href="https://ke.qq.com/webcourse/index.html#cid=464050&term_id=100555327&taid=4785491216372914&type=1024&vid=5285890796236118691">客服的日常工作</a></td>
+    <td><a href="https://www.bilibili.com/video/BV1Qr4y1k772?p=1">客服的日常工作</a></td>
     <td>00:57:35</td>
   </tr>
   <tr>
-    <td><a href="https://ke.qq.com/webcourse/index.html#cid=464050&term_id=100555327&taid=4785495511340210&type=1024&vid=5285890796265703352">客服的基本知识</a></td>
+    <td><a href="https://www.bilibili.com/video/BV1Qr4y1k772?p=2">客服的基本知识</a></td>
     <td>00:46:48</td>
   </tr>
   <tr>
-    <td><a href="https://ke.qq.com/webcourse/index.html#cid=464050&term_id=100555327&taid=4785499806307506&type=1024&vid=5285890796295538521">账号体系-权限，部门和角色</a></td>
+    <td><a href="https://www.bilibili.com/video/BV1Qr4y1k772?p=3">账号体系-权限，部门和角色</a></td>
     <td>00:42:06</td>
   </tr>
   <tr>
-    <td><a href="https://ke.qq.com/webcourse/index.html#cid=464050&term_id=100555327&taid=4785504101274802&type=1024&vid=5285890796326774174">坐席会话的工具-拉黑，服务小结和转接</a></td>
+    <td><a href="https://www.bilibili.com/video/BV1Qr4y1k772?p=4">坐席会话的工具-拉黑，服务小结和转接</a></td>
     <td>00:33:00</td>
   </tr>
   <tr>
-    <td><a href="https://ke.qq.com/webcourse/index.html#cid=464050&term_id=100555327&taid=4785508396242098&type=1024&vid=5285890796387973179">即时通信及坐席自动分配</a></td>
+    <td><a href="https://www.bilibili.com/video/BV1Qr4y1k772?p=5">即时通信及坐席自动分配</a></td>
     <td>00:56:50</td>
   </tr>
   <tr>
-    <td><a href="https://ke.qq.com/webcourse/index.html#cid=464050&term_id=100555327&taid=4785538461013170&type=1024&vid=5285890796727947677">企业聊天与人工质检</a></td>
+    <td><a href="https://www.bilibili.com/video/BV1Qr4y1k772?p=6">企业聊天与人工质检</a></td>
     <td>00:35:12</td>
   </tr>
   <tr>
-    <td><a href="https://ke.qq.com/webcourse/index.html#cid=464050&term_id=100555327&taid=4785542755980466&type=1024&vid=5285890796727887112">统计报表和满意度评价</a></td>
+    <td><a href="https://www.bilibili.com/video/BV1Qr4y1k772?p=7">统计报表和满意度评价</a></td>
     <td>00:37:18</td>
   </tr>
   <tr>
     <td rowspan="6">三、春松客服的上线及维护</td>
-    <td><a href="https://ke.qq.com/webcourse/index.html#cid=464050&term_id=100555327&taid=4785512691209394&type=1024&vid=5285890796417069415">春松客服的编译和部署</a></td>
+    <td><a href="https://www.bilibili.com/video/BV14M4y1P77U?p=1">春松客服的编译和部署</a></td>
     <td>00:38:27</td>
   </tr>
   <tr>
-    <td><a href="https://ke.qq.com/webcourse/index.html#cid=464050&term_id=100555327&taid=4785516986176690&type=1024&vid=5285890796447482734">春松客服的运维管理</a></td>
+    <td><a href="https://www.bilibili.com/video/BV14M4y1P77U?p=2">春松客服的运维管理</a></td>
     <td>01:00:37</td>
   </tr>
   <tr>
-    <td><a href="https://ke.qq.com/webcourse/index.html#cid=464050&term_id=100555327&taid=4785521281143986&type=1024&vid=5285890796596887008">春松客服的自动化系统测试（1）</a></td>
+    <td><a href="https://www.bilibili.com/video/BV14M4y1P77U?p=3">春松客服的自动化系统测试（1）</a></td>
     <td>00:32:45</td>
   </tr>
   <tr>
-    <td><a href="https://ke.qq.com/webcourse/index.html#cid=464050&term_id=100555327&taid=4785534166045874&type=1024&vid=5285890796596824768">春松客服的自动化系统测试（2）</a></td>
+    <td><a href="https://www.bilibili.com/video/BV14M4y1P77U?p=4">春松客服的自动化系统测试（2）</a></td>
     <td>00:49:20</td>
   </tr>
   <tr>
-    <td><a href="https://ke.qq.com/webcourse/index.html#cid=464050&term_id=100555327&taid=4785525576111282&type=1024&vid=5285890796625584882">春松客服的压力测试（1）</a></td>
+    <td><a href="https://www.bilibili.com/video/BV14M4y1P77U?p=5">春松客服的压力测试（1）</a></td>
     <td>00:42:33</td>
   </tr>
   <tr>
-    <td><a href="https://ke.qq.com/webcourse/index.html#cid=464050&term_id=100555327&taid=4785529871078578&type=1024&vid=5285890796625353569">春松客服的压力测试（2）</a></td>
+    <td><a href="https://www.bilibili.com/video/BV14M4y1P77U?p=6">春松客服的压力测试（2）</a></td>
     <td>00:40:39</td>
   </tr>
   <tr>
     <td rowspan="3">四、春松客服的机器人客服</td>
-    <td><a href="https://ke.qq.com/webcourse/index.html#cid=464050&term_id=100555327&taid=4785564230816946&type=1024&vid=5285890797022829695">Chatopera云服务介绍</a></td>
+    <td><a href="https://www.bilibili.com/video/BV1s44y1Y7mV?p=1">Chatopera云服务介绍</a></td>
     <td>00:28:01</td>
   </tr>
   <tr>
-    <td><a href="https://ke.qq.com/webcourse/index.html#cid=464050&term_id=100555327&taid=4785568525784242&type=1024&vid=5285890797022829724">机器人的知识库管理</a></td>
+    <td><a href="https://www.bilibili.com/video/BV1s44y1Y7mV?p=2">机器人的知识库管理</a></td>
     <td>00:47:56</td>
   </tr>
   <tr>
-    <td><a href="https://ke.qq.com/webcourse/index.html#cid=464050&term_id=100555327&taid=4785572820751538&type=1024&vid=5285890797022759383">机器人的多轮对话及富文本消息类型</a></td>
+    <td><a href="https://www.bilibili.com/video/BV1s44y1Y7mV?p=3">机器人的多轮对话及富文本消息类型</a></td>
     <td>00:43:32</td>
   </tr>
   <tr>
     <td rowspan="8">五、春松客服开发基础知识</td>
-    <td><a href="https://ke.qq.com/webcourse/index.html#cid=464050&term_id=100555327&taid=4785547050947762&type=1024&vid=5285890796845383231">SQL快速入门</a></td>
+    <td><a href="https://www.bilibili.com/video/BV1ah411s7ak?p=1">SQL快速入门</a></td>
     <td>00:46:39</td>
   </tr>
   <tr>
-    <td><a href="https://ke.qq.com/webcourse/index.html#cid=464050&term_id=100555327&taid=4785551345915058&type=1024&vid=5285890796845241957">春松客服数据库表及管理</a></td>
+    <td><a href="https://www.bilibili.com/video/BV1ah411s7ak?p=2">春松客服数据库表及管理</a></td>
     <td>00:45:30</td>
   </tr>
   <tr>
-    <td><a href="https://ke.qq.com/webcourse/index.html#cid=464050&term_id=100555327&taid=4785555640882354&type=1024&vid=5285890796905914800">Java编程基础（1）</a></td>
+    <td><a href="https://www.bilibili.com/video/BV1ah411s7ak?p=3">Java编程基础（1）</a></td>
     <td>00:45:24</td>
   </tr>
   <tr>
-    <td><a href="https://ke.qq.com/webcourse/index.html#cid=464050&term_id=100555327&taid=4785559935849650&type=1024&vid=5285890796905985344">Java编程基础（2）</a></td>
+    <td><a href="https://www.bilibili.com/video/BV1ah411s7ak?p=4">Java编程基础（2）</a></td>
     <td>01:37:53</td>
   </tr>
   <tr>
-    <td><a href="https://ke.qq.com/webcourse/index.html#cid=464050&term_id=100555327&taid=4785585705653426&type=1024&vid=5285890796934211686">Maven项目管理</a></td>
+    <td><a href="https://www.bilibili.com/video/BV1ah411s7ak?p=5">Maven项目管理</a></td>
     <td>00:46:18</td>
   </tr>
   <tr>
-    <td><a href="https://ke.qq.com/webcourse/index.html#cid=464050&term_id=100555327&taid=4785590000620722&type=1024&vid=5285890796934221816">搭建春松客服开发环境</a></td>
+    <td><a href="https://www.bilibili.com/video/BV1ah411s7ak?p=6">搭建春松客服开发环境</a></td>
     <td>01:10:28</td>
   </tr>
   <tr>
-    <td><a href="https://ke.qq.com/webcourse/index.html#cid=464050&term_id=100555327&taid=4785581410686130&type=1024&vid=5285890797139512901">SpringBoot快速入门</a></td>
+    <td><a href="https://www.bilibili.com/video/BV1ah411s7ak?p=7">SpringBoot快速入门</a></td>
     <td>00:45:50</td>
   </tr>
   <tr>
-    <td><a href="https://ke.qq.com/webcourse/index.html#cid=464050&term_id=100555327&taid=4785577115718834&type=1024&vid=5285890797139362028">项目源码讲解</a></td>
+    <td><a href="https://www.bilibili.com/video/BV1ah411s7ak?p=8">项目源码讲解</a></td>
     <td>01:09:40</td>
   </tr>
   <tr>
     <td rowspan="2">六、春松客服的插件</td>
-    <td><a href="https://ke.qq.com/webcourse/index.html#cid=464050&term_id=100555327&taid=4785602885522610&type=1024&vid=5285890797257275471">插件机制设计</a></td>
+    <td><a href="">插件机制设计</a></td>
     <td>00:45:51</td>
   </tr>
   <tr>
-    <td><a href="https://ke.qq.com/webcourse/index.html#cid=464050&term_id=100555327&taid=4785611475457202&type=1024&vid=5285890797257385985">春松客服机器人插件解读</a></td>
+    <td><a href="">春松客服机器人插件解读</a></td>
     <td>00:41:20</td>
   </tr>
   <tr>
     <td>七、总结</td>
-    <td><a href="https://ke.qq.com/webcourse/index.html#cid=464050&term_id=100555327&taid=4785611475457202&type=1024&vid=5285890797257385985">春松客服团队介绍及课程总结</a></td>
+    <td><a href="https://www.bilibili.com/video/BV1RL411M7Zr">春松客服团队介绍及课程总结</a></td>
     <td>00:32:11</td>
   </tr>
 </table>

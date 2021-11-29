@@ -6,6 +6,12 @@
 * 由浅入深的介绍春松客服上线智能客服系统、运营客服工作
 * 全面介绍春松客服插件、机器人客服的等原理和使用
 
+## 地址
+
+[GitHub](https://github.com/chatopera/cskefu.djt) | [Gitee](https://gitee.com/chatopera/cskefu.djt) | [CodeChina](https://codechina.csdn.net/chatopera/cskefu.djt)
+
+在中国大陆，使用 Gitee 或 CodeChina 下载速度更快。
+
 ## 春松客服大讲堂 2019
 
 该课程有发布到两个地址：Bilibili 和 [腾讯课堂](https://ke.qq.com/course/464050)。Bilibili 视频免费观看，腾讯课堂为付费，有条件的观众请在腾讯课堂购买，以视对我们工作的支持和鼓励 :heartpulse:，做好开源客服系统。
